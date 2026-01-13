@@ -2,7 +2,7 @@
 
 An end-to-end Data Science project that predicts customer churn using machine learning and provides actionable business insights through data analysis, SQL, explainable AI, and a deployed web application.
 
-🚀 **Live Demo:** https://YOUR-STREAMLIT-LINK-HERE
+🚀 **Live Demo:** https://customer-churn-analysis-platform-mbsqywkq3gpj28fwcbetmb.streamlit.app/
 
 ---
 
